@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: can eat 15 hot dogs in 5 minutes
 
 <!---
 anthonyliang18/anthonyliang18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
